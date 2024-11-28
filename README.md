@@ -1,4 +1,4 @@
-# Nova-Life_CasiNoLife-release
+# CasiNoLife
 **CasiNoLife** est un plugin permettant de jouer à des jeux présent dans un casino.
 
 ## Ajouts
